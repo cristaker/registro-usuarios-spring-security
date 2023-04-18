@@ -13,7 +13,7 @@ nav li{
     line-height: 30px;
 }
 body{
-    background-color: #333:
+    background-color: #333;
     font-family: sans-serif;
     color: black;
     boder-bottom: 1px solid black;
@@ -33,6 +33,6 @@ body{
     clear: both;
 }
 footer {
-    color: back;
+    color: black;
     background: lightgray;
 }
